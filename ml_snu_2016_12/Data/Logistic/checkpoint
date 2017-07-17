@@ -1,0 +1,6 @@
+model_checkpoint_path: "logistic-180"
+all_model_checkpoint_paths: "logistic-100"
+all_model_checkpoint_paths: "logistic-120"
+all_model_checkpoint_paths: "logistic-140"
+all_model_checkpoint_paths: "logistic-160"
+all_model_checkpoint_paths: "logistic-180"
